@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  line-height: 1rem;
+  font-weight: 400;
+}
+.container {
+  max-width: 144rem;
+  padding: 0 3.2rem;
+  margin: 0 auto;
+}
+.heading-primary {
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 7.7rem;
+  letter-spacing: 0rem;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-bottom: 1.5rem;
+}
+.heading-secondary {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 5rem;
+  letter-spacing: 4;
+  color: rgb(40, 90, 67);
+}
+.heading-tertiary {
+  font-size: 2rem;
+  line-height: 2.8rem;
+  color: rgb(40, 90, 67);
+}
+.heading-quaternary {
+  font-size: 1.6rem;
+  line-height: 2.2rem;
+  font-weight: 900;
+  color: rgb(51, 122, 91);
+  margin-bottom: 0.5rem;
+}
+
+.paragraph {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 2.7rem;
+  color: rgb(18, 18, 18);
+}
+
+.margin-bottom-sd {
+  margin-bottom: 1rem;
+}
+
+.margin-bottom-md {
+  margin-bottom: 2rem;
+}
+.margin-bottom-bd {
+  margin-bottom: 3.5rem;
+}
+
+.text-white {
+  color: rgb(255, 255, 255);
+}
+
+.background-dark {
+  background-color: rgb(51, 122, 91);
+}
+
+.shadow {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.02);
+}
+
+.text-center {
+  text-align: center;
+}
